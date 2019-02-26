@@ -1,0 +1,21 @@
+class charpoint:
+    def _init__(self, c, followx = none, followy = none):
+        self.c = c
+        self.followy = followy
+        self.followx = followx
+        
+    def nextx(self):
+        return self.followx
+    def nextx(self):
+        return self.followx
+
+class mlstring:
+    
+    def __init__(self, content):
+        content = content.split("\n")
+        
+        for x in range(len(max(content, key=len))):
+            for y in range (len(content))
+        
+        self.content = charpoint()
+        
